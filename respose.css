@@ -1,0 +1,105 @@
+@media (min-width:1400px) {
+    .main{
+        
+        
+        background-color: paleturquoise;
+        border: 1px solid green;
+    }
+    .i1{
+        margin-left: 100px;
+    }
+    .i2{
+        margin-left: 100px;
+    }
+    .i3{
+        margin-left: 100px;
+    }
+    
+    
+}
+
+@media (max-width:1399px) {
+    .main{
+        
+        
+        background-color: rgb(119, 129, 129);
+        border: 1px solid green;
+    }
+    .i1{
+        margin-left: 00px;
+    }
+    .i2{
+        margin-left: 00px;
+    }
+    .i3{
+        margin-left: 00px;
+    }
+    
+    
+}
+
+@media (max-width:1200px) {
+    .main{
+        
+        
+        background-color: red;
+        border: 1px solid green;
+    }
+    .i1{
+        margin-left: -200px;
+    }
+    .i2{
+        margin-left: -200px;
+    }
+    .i3{
+        margin-left: -200px;
+    }
+    
+    
+}
+
+@media (max-width:992px) {
+    .main{
+        
+        
+        background-color: aqua;
+        border: 1px solid green;
+    }
+    .i1{
+        margin-left: -500px;
+    }
+    .i2{
+        margin-left: -500px;
+    }
+    .i3{
+        margin-left: -500px;
+    }
+    
+    
+}
+
+@media (max-width:576px) {
+    .main{
+        
+        
+        background-color: aqua;
+        border: 1px solid green;
+    }
+    .i1{
+        margin-left: -1000px;
+    }
+    .i2{
+        margin-left: -1000px;
+    }
+    .i3{
+        margin-left: -1000px;
+    }
+    
+    
+}
+
+
+
+
+
+
